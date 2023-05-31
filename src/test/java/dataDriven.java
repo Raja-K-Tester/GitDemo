@@ -18,8 +18,7 @@ public class dataDriven {
 		// Identify test case column by scanning entire 1st row
 		// once column is identified then scan entire test case column to identify
 		// purchase test case row
-		// after you grab purchase test case row=pull all the data of that row and feed
-		// into test
+		// after you grab purchase test case row=pull all the data of that row and feed into test
 
 		ArrayList<String> a = new ArrayList<String>();
 
