@@ -12,11 +12,6 @@ public class testSample {
 		System.out.println(data.get(2));
 		System.out.println(data.get(3));
 		
-		ArrayList data1= d.getData1("Add Profile");
-		System.out.println(data1.get(0));
-		System.out.println(data1.get(1));
-		System.out.println(data1.get(2));
-		System.out.println(data1.get(3));
 		
 		// In selenium if you want to send excel data then use
 		// driver.findelement(By.xpath("//input[@class='acv']).sendkeys(data.get(1));
